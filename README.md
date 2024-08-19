@@ -15,7 +15,7 @@
   <img align="center" alt="angular" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 </div><br/>
-Estudande de Ciências da Computação - UNESC
+Estudante de Ciências da Computação - UNESC
 <br>
 👨‍💻 Aprimorando Conhecimentos em Angular e Back-End com C#
 <br>
