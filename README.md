@@ -16,11 +16,15 @@
 
 </div><br/>
 Estudante de Ciências da Computação - UNESC
-<br>
+
 👨‍💻 Aprimorando Conhecimentos em Angular e Back-End com C#
-<br>
-Atualmente, estou aprofundando meus conhecimentos em Angular, uma das principais frameworks para desenvolvimento de aplicações web, com foco na criação de interfaces modernas, dinâmicas e responsivas utilizando Material Icons. Isso tem me permitido aprimorar a experiência do usuário nos projetos em que trabalho, garantindo design intuitivo e alta performance.
-<br>
-Além disso, estou expandindo minhas habilidades no desenvolvimento back-end com C#, onde estou explorando a criação de APIs robustas e seguras que se comunicam de forma eficiente com o front-end. Estou estudando e aplicando conceitos avançados de arquitetura de software, como SOLID, Clean Architecture e Microserviços, buscando sempre melhorar a escalabilidade, manutenção e testabilidade das minhas soluções.
-<br>
-Como parte da minha jornada no back-end, estou também me aprofundando em tecnologias como RabbitMQ para implementar sistemas de comunicação assíncrona e aumentar a performance e a resiliência das minhas aplicações distribuídas. Estou focado em construir soluções completas e integradas, visando sempre a qualidade do código e a eficiência do sistema.
+
+Atualmente, estou aprofundando meus conhecimentos em Angular, uma das principais frameworks para desenvolvimento de aplicações web, com foco na criação de interfaces modernas, dinâmicas e responsivas utilizando Material Icons.
+Isso tem me permitido aprimorar a experiência do usuário nos projetos em que trabalho, garantindo design intuitivo e alta performance.
+
+Além disso, estou expandindo minhas habilidades no desenvolvimento back-end com C#, onde estou explorando a criação de APIs robustas e seguras que se comunicam de forma eficiente com o front-end.
+Estou estudando e aplicando conceitos avançados de arquitetura de software, como SOLID, Clean Architecture e Microserviços, buscando sempre melhorar a escalabilidade, manutenção e testabilidade das minhas soluções.
+
+Como parte da minha jornada no back-end, estou também me aprofundando em tecnologias como RabbitMQ para implementar sistemas de comunicação assíncrona e aumentar a performance e a resiliência das minhas aplicações distribuídas.
+Estou focado em construir soluções completas e integradas, visando sempre a qualidade do código e a eficiência do sistema.
+
